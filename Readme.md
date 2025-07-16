@@ -38,7 +38,7 @@ To set up and run this project locally, follow these steps:
 *   **Add to Cart**: Click the "Add to Cart" button on any product card to add it to your shopping cart.
 *   **View Cart**: Click the shopping cart icon (🛒) in the header to toggle the cart sidebar, which displays your selected items and the total price.
 *   **Remove from Cart**: Inside the cart sidebar, click the "Remove" button next to an item to take it out of your cart.
-*   **View Product Details**: Click anywhere on a product card (except the "Add to Cart" button) to open a modal with more details about that product. Click the "×" button or outside the modal to close it.
+*   **View Product Details**: Click anywhere on a product card (except the "Add to Cart" button) to open a modal with more details about that product. Click the "remove" button or outside the modal to close it.
 
 ## **Project Structure**
 
